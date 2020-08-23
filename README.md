@@ -13,17 +13,26 @@
 
 Инструменты и технологии:
 
+
 HTML
+
 CSS
+
 JS
+
 jQuery(3.3.1)
+
 Gulp
 
 
 Тестирование:
 
+
 Pixel perfect
+
 Валидация (https://validator.w3.org/)
+
 Проверка кроссбраузнерности (http://browsershots.org./)
+
 Прверка адаптивности (https://bluetree.ai/screenfly/)
 
