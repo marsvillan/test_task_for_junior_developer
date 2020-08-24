@@ -24,11 +24,12 @@ Gulp
 
 # Тестирование:
 
-Pixel perfect
+Использовал валидатор для HTML и CSS (www.validator.w3.org)
 
-Валидация (https://validator.w3.org/)
+Для проверки JS кода я использовал расширение ESLint
 
-Проверка кроссбраузнерности (http://browsershots.org./)
+www.caniuse.com - часто пользуюсь этой таблицой для устаревших или не популярных браузеров
 
-Прверка адаптивности (https://bluetree.ai/screenfly/)
+www.browsershots.org и www.browserstack.com использовал для кросс-браузерного тестирования
 
+Для проверки адаптивности, я использую - www.bluetree.ai/screenfly/ и search.google.com/test/mobile-friendly
